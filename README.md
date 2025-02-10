@@ -11,7 +11,7 @@ The **Simple Scroll Extension** adds smooth scrolling physics to Scratch by intr
 ## Installation
 1. Open TurboWarp.
 2. Download the file SimpleScroll.js
-3. Load the extension via TurboWarp custom Javascript extensions in a custom extension environment. MAKE SURE TO TICK THE "RUN WITHOUT SANDBOX" TICK, OR THE EXTENSION WILL _NOT_ WORK!
+3. Load the extension via TurboWarp custom Javascript extensions in a custom extension environment. MAKE SURE TO TICK THE "**_RUN WITHOUT SANDBOX_**" TICK, OR THE EXTENSION WILL _NOT_ WORK!
 4. The extension will now be available for use in your TurboWarp project.
 
 ## Blocks
