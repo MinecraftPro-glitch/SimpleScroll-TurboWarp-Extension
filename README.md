@@ -1,7 +1,7 @@
-# Scroll Inertia Extension for Scratch
+# Simple Scroll Extension for Scratch
 
 ## Overview
-The **Scroll Inertia Extension** adds smooth scrolling physics to Scratch by introducing inertia, acceleration, and friction. This extension allows Scratch projects to detect scrolling motion with realistic behavior, making interactions feel more natural.
+The **Simple Scroll Extension** adds smooth scrolling physics to Scratch by introducing inertia, acceleration, and friction. This extension allows Scratch projects to detect scrolling motion with realistic behaviour, making interactions feel more natural.
 
 ## Features
 - Detects scrolling with inertia, meaning movement continues briefly after scrolling stops.
@@ -9,9 +9,10 @@ The **Scroll Inertia Extension** adds smooth scrolling physics to Scratch by int
 - Returns the current scroll inertia value, simulating real-world momentum.
 
 ## Installation
-1. Open Scratch.
-2. Load the extension via `Scratch.extensions.register(new ScrollInertiaExtension());` in a custom extension environment. MAKE SURE TO TICK THE "RUN WITHOUT SANDBOX" TICK OR THE EXTENSION WILL _not_ WORK!
-3. The extension will now be available for use in your Scratch project.
+1. Open TurboWarp.
+2. Download the file SimpleScroll.js
+3. Load the extension via TurboWarp custom Javascript extensions in a custom extension environment. MAKE SURE TO TICK THE "RUN WITHOUT SANDBOX" TICK, OR THE EXTENSION WILL _NOT_ WORK!
+4. The extension will now be available for use in your TurboWarp project.
 
 ## Blocks
 ### 1. Scroll Direction with Inertia
