@@ -25,7 +25,7 @@ The **Simple Scroll Extension** adds smooth scrolling physics to Scratch by intr
 **Type:** Reporter
 **Description:** Returns the current inertia value as a number (with two decimal places), indicating the velocity of the scroll.
 
-### 3. Scroll Direction (Real-time)
+### 3. Scroll Direction (Real-time) #CURRENTLY DOES NOT WORK!
 **Text:** `scroll direction`
 **Type:** Reporter
 **Description:** Provides real-time scroll direction (`down`, `up`, or `none`) without inertia influence.
